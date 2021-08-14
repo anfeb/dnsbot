@@ -119,10 +119,9 @@ exports.uangkau = (pushname, sender, uangkau) => {
 
 exports.donasi = () => {
 return`*DONASI KAK*
-Pulsa : 085-727-091-924
-Gopay : -
-Dana : -
-Saweria : https://saweria.co/denisputra
+Qris : Silakan Hubungin Owner
+Gopay : 087772343860
+Dana : 087772343860
 
 Donasi supaya bot terus update & Aktif`
 }
@@ -134,7 +133,7 @@ return`🔰 -----[ 「 *IKLAN ${botName}* 」 ]----- 🔰
 ◯ *SEWA : 10K/GRUP (BULAN)*
 ◯ *BUAT : 50K (BISA JADI OWNER)*
 ◯ *PEMBAYARAN BISA MELALUI :*
-◯ *OVO, GOPAY, DANA, PULSA+10K*
+◯ *OVO, GOPAY, DANA, Qris*
 ──────────────────────────────
 ◯ *KEUNTUNGAN SEWA BOT :*
 ◯ *1. BISA MEMASUKAN BOT KE GROUP*
